@@ -4,7 +4,7 @@
 </a>
 ++++
 
-= aero.minova.os.build
+= OS Build
 
 Baut Open Source-Projekte der Minova,
 um zu validieren, dass Externe dieses Projekt bauen können.
